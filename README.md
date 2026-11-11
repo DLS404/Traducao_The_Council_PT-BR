@@ -55,4 +55,3 @@ PROBLEMAS COMUNS
 AVISO
 -----
 Tradução feita por fãs, sem ligação com os desenvolvedores do jogo.
-Esta tradução ainda passa por revisões e pode ter erros pontuais.
