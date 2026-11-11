@@ -1,5 +1,4 @@
 TRADUÇÃO PT-BR — THE COUNCIL (2018)
-Guia de instalação
 ==================================================
 
 ## O QUE É
