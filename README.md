@@ -2,7 +2,7 @@ TRADUÇÃO PT-BR — THE COUNCIL (2018)
 Guia de instalação
 ==================================================
 
-O QUE É
+## O QUE É
 -------
 Este pacote traz o arquivo Loca_en_Main_0.cpk, que contém os textos do jogo
 traduzidos para português do Brasil. Ele substitui o arquivo de textos em
@@ -14,7 +14,7 @@ ANTES DE COMEÇAR
 - Vale instalar com o jogo atualizado. Uma atualização futura da Steam pode
   sobrescrever o arquivo e desfazer a tradução (basta reinstalar).
 
-PASSO A PASSO
+## PASSO A PASSO
 -------------
 1. Abra a pasta do jogo.
    Pela Steam: clique com o botão direito em The Council na biblioteca >
@@ -37,14 +37,14 @@ PASSO A PASSO
 5. Abra o jogo, confira se o idioma está em Inglês e inicie uma partida.
    Os textos devem aparecer em português.
 
-COMO DESINSTALAR
+## COMO DESINSTALAR
 ----------------
 - Apague o Loca_en_Main_0.cpk da pasta Packages e coloque de volta o backup
   do passo 3 (com o nome original), OU
 - Na Steam: botão direito no jogo > Propriedades > Arquivos instalados >
   Verificar a integridade dos arquivos do jogo.
 
-PROBLEMAS COMUNS
+## PROBLEMAS COMUNS
 ----------------
 - O jogo continua em inglês: confira se o nome do arquivo está exato, se ele
   está na pasta Packages e se o jogo estava fechado ao copiar.
@@ -52,6 +52,19 @@ PROBLEMAS COMUNS
 - Pasta não encontrada: veja se a Steam está instalada em outro disco; use
   "Procurar arquivos locais" para achar o caminho certo.
 
-AVISO
+## AVISO
 -----
 Tradução feita por fãs, sem ligação com os desenvolvedores do jogo.
+
+
+## Doações
+Quem quiser dar um apoio, deixo aqui meu Pix, mas não se sinta obrigado a fazer, só faça se quiser!!
+<img 
+  width="280" 
+  height="280" 
+  alt="QR Code Pix" 
+  src="https://github.com/user-attachments/assets/bc8f1c9d-9d60-480b-96ff-65bc1b65384d"
+  align="left"
+/>
+
+**Bom jogo!** 🇧🇷
