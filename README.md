@@ -1,69 +1,122 @@
-TRADUÇÃO PT-BR — THE COUNCIL (2018)
-==================================================
+# TRADUÇÃO PT-BR — THE COUNCIL (2018)
 
-## O QUE É
--------
-Este pacote traz o arquivo Loca_en_Main_0.cpk, que contém os textos do jogo
-traduzidos para português do Brasil. Ele substitui o arquivo de textos em
-inglês do jogo, por isso o jogo deve ficar com o idioma em INGLÊS.
+Tradução feita por fãs para **The Council (2018)**, trazendo os textos do jogo para o português brasileiro.
 
-ANTES DE COMEÇAR
-----------------
+## DOWNLOAD DA TRADUÇÃO
+
+**IMPORTANTE: Para baixar e instalar a tradução, acesse a aba [Releases](../../releases) deste repositório.**
+
+1. Clique em [Releases](../../releases).
+2. Abra a versão mais recente disponível.
+3. Na seção **Assets**, baixe o arquivo disponibilizado.
+4. Extraia os arquivos, caso necessário, e siga as instruções de instalação abaixo.
+
+**Não baixe pelo botão Code → Download ZIP.** Essa opção disponibiliza os arquivos do projeto, não necessariamente o pacote pronto para instalação.
+
+---
+
+## SOBRE A TRADUÇÃO
+
+O pacote contém o arquivo `Loca_en_Main_0.cpk`, que substitui os textos originais em inglês do jogo por suas respectivas traduções para português do Brasil.
+
+**Atenção:** o jogo deve permanecer configurado no idioma **INGLÊS**. A tradução funciona substituindo os textos desse idioma.
+
+## ANTES DE INSTALAR
+
 - Feche o jogo completamente.
-- Vale instalar com o jogo atualizado. Uma atualização futura da Steam pode
-  sobrescrever o arquivo e desfazer a tradução (basta reinstalar).
+- Recomenda-se utilizar a versão mais recente do jogo.
+- Faça um backup do arquivo original antes de substituí-lo.
+- Atualizações futuras da Steam podem sobrescrever a tradução. Caso isso aconteça, basta instalá-la novamente.
 
-## PASSO A PASSO
--------------
-1. Abra a pasta do jogo.
-   Pela Steam: clique com o botão direito em The Council na biblioteca >
-   Gerenciar > Procurar arquivos locais.
-   O caminho costuma ser parecido com:
-   C:\Program Files (x86)\Steam\steamapps\common\The Council
+## PASSO A PASSO DA INSTALAÇÃO
 
-2. Entre nas pastas, nesta ordem:
-   The Council > Data > Packages
+**1. Localize a pasta do jogo.**
 
-3. FAÇA UM BACKUP do arquivo original.
-   Se já existir um Loca_en_Main_0.cpk nessa pasta, copie-o para outro lugar
-   (por exemplo, a área de trabalho) ou renomeie para Loca_en_Main_0.cpk.bak.
+Pela Steam:
+- Abra sua biblioteca.
+- Clique com o botão direito em The Council.
+- Selecione **Gerenciar → Procurar arquivos locais**.
 
-4. Copie o arquivo Loca_en_Main_0.cpk deste pacote para a pasta Packages.
-   O nome precisa ficar EXATAMENTE assim, sem números ou textos extras:
-       Loca_en_Main_0.cpk
-   Se o Windows perguntar, escolha "Substituir o arquivo no destino".
+O caminho geralmente é parecido com:
 
-5. Abra o jogo, confira se o idioma está em Inglês e inicie uma partida.
-   Os textos devem aparecer em português.
+`C:\Program Files (x86)\Steam\steamapps\common\The Council`
+
+**2. Acesse a pasta dos arquivos de localização.**
+
+Entre nas seguintes pastas:
+
+`The Council > Data > Packages`
+
+**3. Faça um backup do arquivo original.**
+
+Caso já exista um arquivo chamado `Loca_en_Main_0.cpk`, copie-o para outro local ou renomeie-o para:
+
+`Loca_en_Main_0.cpk.bak`
+
+**4. Instale a tradução.**
+
+Copie o arquivo `Loca_en_Main_0.cpk` disponibilizado neste pacote para a pasta `Packages`.
+
+O nome precisa permanecer exatamente assim:
+
+`Loca_en_Main_0.cpk`
+
+Se o Windows perguntar se deseja substituir o arquivo existente, confirme.
+
+**5. Inicie o jogo.**
+
+Abra The Council, certifique-se de que o idioma selecionado é inglês e inicie uma partida.
+
+Os textos deverão aparecer em português brasileiro!
 
 ## COMO DESINSTALAR
-----------------
-- Apague o Loca_en_Main_0.cpk da pasta Packages e coloque de volta o backup
-  do passo 3 (com o nome original), OU
-- Na Steam: botão direito no jogo > Propriedades > Arquivos instalados >
-  Verificar a integridade dos arquivos do jogo.
+
+Caso queira remover a tradução, existem duas opções:
+
+**Opção 1 — Restaurar o backup**
+- Apague o arquivo `Loca_en_Main_0.cpk` traduzido.
+- Coloque o backup original de volta na pasta `Packages`.
+- Restaure o nome original `Loca_en_Main_0.cpk`.
+
+**Opção 2 — Pela Steam**
+- Clique com o botão direito no jogo.
+- Acesse **Propriedades → Arquivos instalados**.
+- Selecione **Verificar integridade dos arquivos do jogo**.
+
+A Steam deverá restaurar os arquivos originais.
 
 ## PROBLEMAS COMUNS
-----------------
-- O jogo continua em inglês: confira se o nome do arquivo está exato, se ele
-  está na pasta Packages e se o jogo estava fechado ao copiar.
-- Textos estranhos ou o jogo não abre: restaure o backup e tente de novo.
-- Pasta não encontrada: veja se a Steam está instalada em outro disco; use
-  "Procurar arquivos locais" para achar o caminho certo.
 
-## AVISO
------
-Tradução feita por fãs, sem ligação com os desenvolvedores do jogo.
+**O jogo continua em inglês**
+- Confira se o arquivo está na pasta `Packages`.
+- Verifique se o nome está exatamente correto.
+- Certifique-se de que o idioma do jogo está configurado como inglês.
 
+**O jogo não inicia ou apresenta textos estranhos**
+- Restaure o arquivo original utilizando o backup.
+- Verifique se o jogo está atualizado.
+- Tente instalar novamente a tradução.
 
-## Doações
-Quem quiser dar um apoio, deixo aqui meu Pix, mas não se sinta obrigado a fazer, só faça se quiser!!
-<img 
-  width="280" 
-  height="280" 
-  alt="QR Code Pix" 
-  src="https://github.com/user-attachments/assets/bc8f1c9d-9d60-480b-96ff-65bc1b65384d"
-  align="left"
-/>
+**Não encontro a pasta do jogo**
+- Utilize a opção **Gerenciar → Procurar arquivos locais** na Steam.
+- Verifique se o jogo está instalado em outro disco.
 
-**Bom jogo!** 🇧🇷
+---
+
+## APOIE O PROJETO
+
+Se você gostou da tradução e quiser ajudar a apoiar o projeto, pode contribuir voluntariamente pelo Pix.
+
+Qualquer contribuição é bem-vinda, mas não existe nenhuma obrigação de doar. O mais importante é que você aproveite o jogo em português!
+
+<img width="200" alt="QR Code Pix" src="https://github.com/user-attachments/assets/bc8f1c9d-9d60-480b-96ff-65bc1b65384d" />
+
+---
+
+## AVISO LEGAL
+
+Esta é uma tradução independente, feita por fãs e sem qualquer vínculo oficial com os desenvolvedores ou distribuidores de The Council.
+
+Todos os direitos do jogo pertencem aos seus respectivos proprietários.
+
+**Bom jogo!**
