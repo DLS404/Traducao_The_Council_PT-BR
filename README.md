@@ -53,7 +53,7 @@ O procedimento depende da plataforma em que você possui The Council.
 
 Caminho padrão:
 
-`C:\Program Files (x86)\Steam\steamapps\common\The Council`
+`C:\Program Files (x86)\Steam\steamapps\common\The Council\Data\Packages`
 
 Caso tenha instalado em outro disco ou biblioteca, o caminho será diferente.
 
@@ -66,25 +66,11 @@ Caso tenha instalado em outro disco ou biblioteca, o caminho será diferente.
 
 Caminho padrão:
 
-`C:\GOG Games\The Council`
+`C:\GOG Games\The Council\Data\Packages`
 
 O caminho pode variar conforme o local escolhido durante a instalação.
 
-### 2. Acesse a pasta dos arquivos de localização
-
-Depois de localizar a pasta principal do jogo, entre nas seguintes pastas:
-
-`The Council > Data > Packages`
-
-O caminho completo ficará parecido com:
-
-`C:\Program Files (x86)\Steam\steamapps\common\The Council\Data\Packages`
-
-Na versão GOG, a estrutura interna deverá ser equivalente:
-
-`C:\GOG Games\The Council\Data\Packages`
-
-### 3. Faça um backup do arquivo original
+### 2. Faça um backup do arquivo original
 
 Caso já exista um arquivo chamado `Loca_en_Main_0.cpk`, copie-o para outro local ou renomeie-o para:
 
