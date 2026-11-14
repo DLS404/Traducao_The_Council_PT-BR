@@ -145,4 +145,4 @@ Esta é uma tradução independente, feita por fãs e sem qualquer vínculo ofic
 
 Todos os direitos do jogo pertencem aos seus respectivos proprietários.
 
-**Bom jogo!******
+**Bom jogo!**
