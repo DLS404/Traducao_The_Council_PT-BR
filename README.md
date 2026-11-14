@@ -9,7 +9,7 @@ Tradução feita por fãs para **The Council (2018)**, trazendo os textos do jog
 1. Clique em [Releases](../../releases).
 2. Abra a versão mais recente disponível.
 3. Na seção **Assets**, baixe o arquivo "Loca_en_Main_0.cpk".
-4. Extraia os arquivos e siga as instruções de instalação abaixo.
+4. Segue as instruções dadas aqui no github.
 
 **Não baixe pelo botão Code → Download ZIP.** Essa opção disponibiliza os arquivos do projeto, não necessariamente o pacote pronto para instalação.
 
